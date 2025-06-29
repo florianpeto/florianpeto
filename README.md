@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=florianpeto&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du Profil" />
-  <img src="https://img.shields.io/github/followers/florianpeto?label=Abonnés&style=social" alt="Abonnés GitHub" />
+  <img src="https://img.shields.io/github/followers/?username=florianpeto?label=Abonnés&style=social" alt="Abonnés GitHub" />
 </div>
 
 ---
