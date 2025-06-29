@@ -1,5 +1,6 @@
-# 👋 Bonjour, je suis Florian Peto
-### 🛡️ Ingénieur en Cybersécurité | Analyste SOC | Passionné de Sécurité Cloud
+# 👋 Bonjour, je suis Florian Peto ![DevSecOps](https://img.shields.io/badge/DevSecOps-Expert-important)
+### 🛡️ Ingénieur DevSecOps | Analyste SOC | Passionné du Développement et de la Sécurité Informatique
+
 ![SOC](https://img.shields.io/badge/SOC-Expert-important)
 ![Réponse aux Incidents](https://img.shields.io/badge/Réponse_aux_Incidents-Avancé-success)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-Intermédiaire-blue)
